@@ -1,4 +1,4 @@
-# deno_qoi
+# Deno QOI
 An encoder/decoder for the [QOI format](https://qoiformat.org/), written in TypeScript.
 
 ## Importing

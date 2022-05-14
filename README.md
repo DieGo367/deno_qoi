@@ -3,7 +3,7 @@ An encoder/decoder for the [QOI format](https://qoiformat.org/), written in Type
 
 ## Importing
  - For Deno, import as usual from `https://deno.land/x/qoi/mod.ts`.
- - This module works in the browser too, albeit without the readFile and writeFile methods. Import directly from `https://deno.land/x/qoi/qoi.js`.
+ - This module works in the browser too, albeit without the readFile and writeFile methods. Import directly from `https://cdn.deno.land/qoi/versions/0.1.2/raw/qoi.js`.
 
 
 ## Usage
